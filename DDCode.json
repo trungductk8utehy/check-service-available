@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "serviceEnabled": true,
+  "minimumVersion": "0.2.0",
+  "latestVersion": "0.2.0",
+  "forceLatest": true,
+  "blockedVersions": [],
+  "message": "DDCode đang hoạt động bình thường.",
+  "downloadUrl": "https://github.com/trungductk8utehy/check-service-available",
+  "supportUrl": "https://github.com/trungductk8utehy/check-service-available/issues",
+  "publishedAt": "2026-09-08T00:00:00Z"
+}
