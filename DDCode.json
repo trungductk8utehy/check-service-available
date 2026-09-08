@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "serviceEnabled": false,
+  "serviceEnabled": true,
   "minimumVersion": "0.2.0",
   "latestVersion": "0.2.0",
   "forceLatest": true,
