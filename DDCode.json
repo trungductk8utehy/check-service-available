@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "serviceEnabled": true,
-  "minimumVersion": "0.2.0",
-  "latestVersion": "0.2.0",
+  "minimumVersion": "0.2.1",
+  "latestVersion": "0.2.1",
   "forceLatest": true,
   "blockedVersions": [],
   "message": "DDCode đang hoạt động bình thường.",
